@@ -1,0 +1,7 @@
+15:15:50.922 [main] INFO  resources2.Base2 - Navigated to Rediff.com
+15:15:51.079 [main] INFO  resources2.Base2 - Sucessfully validated Title Rediff
+15:29:20.173 [main] INFO  resources2.Base2 - Driver is initialized
+15:29:25.301 [main] INFO  resources2.Base2 - Navigated to Rediff.com
+15:29:25.841 [main] INFO  resources2.Base2 - Sucessfully validated Title Rediff
+15:34:31.832 [main] INFO  resources2.Base2 - Sucessfully validated Navigation Bar
+15:34:42.915 [main] INFO  resources2.Base2 - Home Page Validated

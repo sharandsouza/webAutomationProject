@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9372" started-at="2020-02-27T16:14:47 AEDT" finished-at="2020-02-27T16:14:56 AEDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9372" started-at="2020-02-27T16:14:47 AEDT" finished-at="2020-02-27T16:14:56 AEDT">
+      <class name="academy2.ValidateTitle">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:academy2.ValidateTitle@55740540]" name="initialize" is-config="true" duration-ms="8781" started-at="2020-02-27T16:14:47 AEDT" finished-at="2020-02-27T16:14:55 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="titleMoney()[pri:0, instance:academy2.ValidateTitle@55740540]" name="titleMoney" duration-ms="359" started-at="2020-02-27T16:14:55 AEDT" finished-at="2020-02-27T16:14:56 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleMoney -->
+        <test-method status="PASS" signature="titleRediff()[pri:0, instance:academy2.ValidateTitle@55740540]" name="titleRediff" duration-ms="51" started-at="2020-02-27T16:14:56 AEDT" finished-at="2020-02-27T16:14:56 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleRediff -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:academy2.ValidateTitle@55740540]" name="teardown" is-config="true" duration-ms="134" started-at="2020-02-27T16:14:56 AEDT" finished-at="2020-02-27T16:14:56 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy2.ValidateTitle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
